@@ -1,2 +1,2 @@
 # Channel-Devices
-Child Channels from the Generic-Channel class
+Child Channels from the Abstraction-Channels class
